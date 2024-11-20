@@ -1,0 +1,63 @@
+{
+    "Provider": {
+        "UB Bremen": {
+            "Bibliographic Info": {
+                "Title": "Von der Heydt's Kolonial-Handbuch",
+                "Collection(s)": "Digitale Sammlung Deutscher Kolonialismus",
+                "Language": "",
+                "Place of Publication": "Berlin ; Leipzig",
+                "Structure Type": "periodical",
+                "OAI-Identifier": "oai:brema.suub.uni-bremen.de/dsdk:2095447",
+                "URN": "urn:nbn:de:gbv:46:1-14755",
+                "PURL": "https://brema.suub.uni-bremen.de/2095447",
+                "Format": ""
+            },
+            "List of Volumes": {
+                "Overview": [
+                    {
+                        "Volume": "Bd. 1 (1907)",
+                        "Year": "1907",
+                        "URL": "",
+                        "METS": "http://brema.suub.uni-bremen.de/oai/?verb=GetRecord&metadataPrefix=mets&identifier=2090426"
+                    },
+                    {
+                        "Volume": "Bd. 2 (1908)",
+                        "Year": "1908",
+                        "URL": "",
+                        "METS": "http://brema.suub.uni-bremen.de/oai/?verb=GetRecord&metadataPrefix=mets&identifier=2090789"
+                    },
+                    {
+                        "Volume": "Bd. 3 (1909)",
+                        "Year": "1909",
+                        "URL": "",
+                        "METS": "http://brema.suub.uni-bremen.de/oai/?verb=GetRecord&metadataPrefix=mets&identifier=2082396"
+                    },
+                    {
+                        "Volume": "Bd. 5 (1911)",
+                        "Year": "1911",
+                        "URL": "",
+                        "METS": "http://brema.suub.uni-bremen.de/oai/?verb=GetRecord&metadataPrefix=mets&identifier=2100510"
+                    },
+                    {
+                        "Volume": "Bd. 6 (1912)",
+                        "Year": "1912",
+                        "URL": "",
+                        "METS": "http://brema.suub.uni-bremen.de/oai/?verb=GetRecord&metadataPrefix=mets&identifier=2093548"
+                    },
+                    {
+                        "Volume": "Bd. 7 (1913)",
+                        "Year": "1913",
+                        "URL": "",
+                        "METS": "http://brema.suub.uni-bremen.de/oai/?verb=GetRecord&metadataPrefix=mets&identifier=2097253"
+                    },
+                    {
+                        "Volume": "Bd. 8 (1914)",
+                        "Year": "1914",
+                        "URL": "",
+                        "METS": "http://brema.suub.uni-bremen.de/oai/?verb=GetRecord&metadataPrefix=mets&identifier=2094031"
+                    }
+                ]
+            }
+        }
+    }
+}

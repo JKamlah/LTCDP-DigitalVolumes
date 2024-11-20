@@ -308,21 +308,21 @@ def process_and_render_html(data):
     return html_content
 
 
-def save_html(output_file, html_content):
+def save_html(ofile, content):
     # Pretty-print the HTML using BeautifulSoup
-    soup = BeautifulSoup(html_content, 'html.parser')
+    soup = BeautifulSoup(content, 'html.parser')
     pretty_html = soup.prettify()
 
-    with open(output_file, 'w', encoding='utf-8') as f:
+    with open(ofile, 'w', encoding='utf-8') as f:
         f.write(pretty_html)
 
-def get_deepest_subfolders(main_folder):
-    deepest_subfolders = []
-    for dirpath, dirnames, filenames in os.walk(main_folder):
+def get_deepest_subfolders(folder):
+    subfolder = []
+    for dirpath, dirnames, filenames in os.walk(folder):
         # If the directory has no subdirectories, it's considered a deepest subfolder
         if not dirnames:
-            deepest_subfolders.append(dirpath)
-    return deepest_subfolders
+            subfolder.append(dirpath)
+    return subfolder
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
@@ -336,11 +336,11 @@ if __name__ == "__main__":
 
     for subfolder_path in deepest_subfolders:
         # Load and accumulate JSON data for the current deepest subfolder
-        accumulated_data = load_and_accumulate_json_files(subfolder_path)
+        acc_data = load_and_accumulate_json_files(subfolder_path)
 
-        if accumulated_data["Provider"]:  # Only create a file if data is found
+        if acc_data["Provider"]:  # Only create a file if data is found
             # Generate and render the HTML content
-            html_content = process_and_render_html(accumulated_data)
+            html_content = process_and_render_html(acc_data)
 
             # Save the rendered HTML to a file in the current subfolder
             output_file = os.path.join(subfolder_path, 'data.html')
