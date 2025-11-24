@@ -6,12 +6,12 @@
                 "Title": "Handbuch der deutschen Aktiengesellschaften",
                 "Collection(s)": "Hoppenstedt",
                 "Language": "Deutsch",
-                "Place of Publication": "Heppenheim (Bergstr.)",
-                "Structure Type": "Berlin",
-                "OAI-Identifier": "Zeitschrift",
-                "URN": "1006345701",
-                "PURL": "urn:nbn:de:bsz:180-dighop-181",
-                "METS": "http://digi.bib.uni-mannheim.de/urn/urn:nbn:de:bsz:180-dighop-181"
+                "Place of Publication": "Darmstadt",
+                "Structure Type": "Zeitschrift",
+                "OAI-Identifier": "1006345701",
+                "URN": "urn:nbn:de:bsz:180-dighop-29",
+                "PURL": "https://digi.bib.uni-mannheim.de/urn/urn:nbn:de:bsz:180-dighop-29",
+                "METS": "METS"
             },
             "List of Volumes": {
                 "Overview": [
@@ -114,68 +114,68 @@
                     {
                         "Volume": "09.1904/1905, Band 2",
                         "Year": "1904/1905, Band 2",
-                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bdouble%5D=0&tx_dlf%5Bid%5D=4890&tx_dlf%5Bpage%5D=1&cHash=5d1c5e65f4083e13ab29489f3111aa44",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4890&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=5d1c5e65f4083e13ab29489f3111aa44",
                         "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-1099"
                     },
                     {
                         "Volume": "10.1905/1906, Band 1",
                         "Year": "1905/1906, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4861&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=8e22f005edddef9ac3b20107a6d4c02e",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1006345701_190600101"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-936"
                     },
                     {
                         "Volume": "10.1905/1906, Band 2",
                         "Year": "1905/1906, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4872&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=f26b8c908254a70252bcf640e4801e48",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1006345701_190600102"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-979"
                     },
                     {
                         "Volume": "11.1906/1907, Band 1",
                         "Year": "1906/1907, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4870&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=adb52bde758c114f59521fe818baf9ea",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1006345701_190700111"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-958"
                     },
                     {
                         "Volume": "11.1906/1907, Band 2",
                         "Year": "1906/1907, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4708&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=148386507ba3f8d1e3e31678a86e12df",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1006345701_190700112"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-744"
                     },
                     {
                         "Volume": "12.1907/1908, Band 1",
                         "Year": "1907/1908, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4859&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=0071ff22855693d0d1a01552724592b7",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1006345701_190800121"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-911"
                     },
                     {
                         "Volume": "12.1907/1908, Band 2",
                         "Year": "1907/1908, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4710&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=d30cf734fb5f58eb4bab28b8c9177a89",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1006345701_190800122"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-769"
                     },
                     {
                         "Volume": "13.1908/1909, Band 1",
                         "Year": "1908/1909, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4857&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=f2094479335d63feb952e01e06b59444",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1006345701_190900131"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-893"
                     },
                     {
                         "Volume": "13.1908/1909, Band 2",
                         "Year": "1908/1909, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4847&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=0f7b7c3b4320bac2527a209194114b08",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1006345701_190900132"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-873"
                     },
                     {
                         "Volume": "14.1909/1910, Band 1",
                         "Year": "1909/1910, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4838&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=4d3660e53c496929f36250092092c3fb",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/Band"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-850"
                     },
                     {
                         "Volume": "14.1909/1910, Band 2",
                         "Year": "1909/1910, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4705&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=8591c3538621bb95bdc3d569bf5eb47d",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/Band"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-714"
                     },
                     {
                         "Volume": "15.1910/1911, Band 1",
@@ -234,7 +234,7 @@
                     {
                         "Volume": "19.1914/1915, Band 2",
                         "Year": "1914/1915, Band 2",
-                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bdouble%5D=0&tx_dlf%5Bid%5D=4675&tx_dlf%5Bpage%5D=1&cHash=dd7ba8fb96ac4d17af39e4bbaf60a120",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4675&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=dd7ba8fb96ac4d17af39e4bbaf60a120",
                         "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-537"
                     },
                     {
@@ -253,25 +253,25 @@
                         "Volume": "21.1916/1917, Band 1",
                         "Year": "1916/1917, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4663&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=df99d6cc4e0cdfa2f1eadd608c5ffd9d",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1006345701_191700211"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-457"
                     },
                     {
                         "Volume": "21.1916/1917, Band 2",
                         "Year": "1916/1917, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4661&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=8f3a4572b716a117f52ab822c59ab97c",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1006345701_191700212"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-435"
                     },
                     {
                         "Volume": "22.1917/1918, Band 1",
                         "Year": "1917/1918, Band 1",
-                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bdouble%5D=0&tx_dlf%5Bid%5D=4744&tx_dlf%5Bpage%5D=1&cHash=4ed6ea861b8b16b3f789e574513af6d7",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1006345701_191800221"
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4744&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=4ed6ea861b8b16b3f789e574513af6d7",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-785"
                     },
                     {
                         "Volume": "22.1917/1918, Band 2",
                         "Year": "1917/1918, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4650&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=88316440b9997de7a7f69fc5d65c53e0",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1006345701_191800222"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-419"
                     },
                     {
                         "Volume": "23.1918/1919, Band 1",
@@ -289,13 +289,13 @@
                         "Volume": "24.1919/1920, Band 1",
                         "Year": "1919/1920, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4579&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=ac5281d89e1352dd3f874e21817a3b5f",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1006345701_192000241"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-287"
                     },
                     {
                         "Volume": "24.1919/1920, Band 2",
                         "Year": "1919/1920, Band 2",
-                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bdouble%5D=0&tx_dlf%5Bid%5D=4591&tx_dlf%5Bpage%5D=1&cHash=01bd195701175826a3e88f683ef9823f",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1006345701_192000242"
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4591&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=01bd195701175826a3e88f683ef9823f",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-344"
                     },
                     {
                         "Volume": "25.1920/1921, Band 1",
@@ -331,25 +331,25 @@
                         "Volume": "27.1922/1923, Band 2",
                         "Year": "1922/1923, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4878&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=a6532b3b0dd83f6c7e61fe581dd999c7",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1006345701_192300272"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-999"
                     },
                     {
                         "Volume": "28.1923/1924, Band 1a",
                         "Year": "1923/1924, Band 1a",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4918&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=a6f8c10cda6287799caec01ae4bc96d5",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1006345701_1924002811"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-1346"
                     },
                     {
                         "Volume": "28.1923/1924, Band 1b",
                         "Year": "1923/1924, Band 1b",
-                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bdouble%5D=0&tx_dlf%5Bid%5D=4940&tx_dlf%5Bpage%5D=1&cHash=de40a697f016a40fa6b54fe703c1927e",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1006345701_1924002812"
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4940&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=de40a697f016a40fa6b54fe703c1927e",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-1357"
                     },
                     {
                         "Volume": "28.1923/1924, Band 2a",
                         "Year": "1923/1924, Band 2a",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4917&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=58da7f917c46894048c2a1f84e0cd2ca",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1006345701_1924002821"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-1339"
                     },
                     {
                         "Volume": "28.1923/1924, Band 2b",
@@ -486,14 +486,14 @@
                     {
                         "Volume": "34.1929, Band 4",
                         "Year": "1929, Band 4",
-                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bdouble%5D=0&tx_dlf%5Bid%5D=5029&tx_dlf%5Bpage%5D=1&cHash=642715709bf2ed838d8a179bf4e35d48",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=5029&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=642715709bf2ed838d8a179bf4e35d48",
                         "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-1833"
                     },
                     {
                         "Volume": "35.1930, Band 1",
                         "Year": "1930, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4585&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=520fdb8e6bf39821722df29e8b65befe",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1006345701_193000351"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-332"
                     },
                     {
                         "Volume": "35.1930, Band 2",
@@ -535,12 +535,12 @@
                         "Volume": "36.1931, Band 4",
                         "Year": "1931, Band 4",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4580&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=13f92aa4c341d1d05cd9570360cc2ae6",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1006345701_193100364"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-293"
                     },
                     {
                         "Volume": "37.1932, Band 1",
                         "Year": "1932, Band 1",
-                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bdouble%5D=0&tx_dlf%5Bid%5D=5036&tx_dlf%5Bpage%5D=1&cHash=7d59cb95483272b956b26b121db49fc5",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=5036&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=7d59cb95483272b956b26b121db49fc5",
                         "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-1906"
                     },
                     {
@@ -570,7 +570,7 @@
                     {
                         "Volume": "38.1933, Band 2",
                         "Year": "1933, Band 2",
-                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bdouble%5D=0&tx_dlf%5Bid%5D=4684&tx_dlf%5Bpage%5D=1&cHash=78948331a8ae616fc7f57ba2a93229a5",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4684&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=78948331a8ae616fc7f57ba2a93229a5",
                         "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-584"
                     },
                     {
@@ -582,7 +582,7 @@
                     {
                         "Volume": "38.1933, Band 4",
                         "Year": "1933, Band 4",
-                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bdouble%5D=0&tx_dlf%5Bid%5D=4688&tx_dlf%5Bpage%5D=1&cHash=21ae9cf7e1b1e360e9dd900136f00bb8",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4688&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=21ae9cf7e1b1e360e9dd900136f00bb8",
                         "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-619"
                     },
                     {
@@ -984,8 +984,434 @@
                     {
                         "Volume": "50.1949/50, Band 4",
                         "Year": "1949/50, Band 4",
-                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bdouble%5D=0&tx_dlf%5Bid%5D=4126&tx_dlf%5Bpage%5D=1&cHash=a96ea1ee3b8ca49316935797d5bacd72",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4126&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=a96ea1ee3b8ca49316935797d5bacd72",
                         "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-275"
+                    },
+                    {
+                        "Volume": "51.1950/51, Band 1",
+                        "Year": "1950/51, Band 1",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6114&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=ad86dce529061409b9f621942d0f2b1c",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2606"
+                    },
+                    {
+                        "Volume": "51.1950/51, Band 2",
+                        "Year": "1950/51, Band 2",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6130&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=47d3da49efae0c298dbc81582f9dc3c5",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2619"
+                    },
+                    {
+                        "Volume": "51.1950/51, Band 3",
+                        "Year": "1950/51, Band 3",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6131&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=c1fa07947259c753531e40a95eca079d",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2620"
+                    },
+                    {
+                        "Volume": "51.1950/51, Band 4",
+                        "Year": "1950/51, Band 4",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6134&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=65479785b0bec20cf0e23977265ca424",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2646"
+                    },
+                    {
+                        "Volume": "51.1950/51, Band 5",
+                        "Year": "1950/51, Band 5",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6133&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=d53df1f8072701cba26e6394ad5158d8",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2630"
+                    },
+                    {
+                        "Volume": "52.1951/52, Band 1",
+                        "Year": "1951/52, Band 1",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6135&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=13c582dd3cfcf27c27805f810cfafb7f",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2651"
+                    },
+                    {
+                        "Volume": "52.1951/52, Band 2",
+                        "Year": "1951/52, Band 2",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6136&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=ebf4ffef4009790066ab06f2e9f82e66",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2665"
+                    },
+                    {
+                        "Volume": "52.1951/52, Band 3",
+                        "Year": "1951/52, Band 3",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6137&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=c1e7db470ffc94a07769a927dea518c3",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2671"
+                    },
+                    {
+                        "Volume": "52.1951/52, Band 4",
+                        "Year": "1951/52, Band 4",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6138&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=7ea9ac00dd7a4bee221052b5b195de8f",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2688"
+                    },
+                    {
+                        "Volume": "52.1951/52, Band 5",
+                        "Year": "1951/52, Band 5",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6139&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=c4559b213d88eb56f9fb9f28c4fcccba",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2695"
+                    },
+                    {
+                        "Volume": "52.1951/52, Band 6",
+                        "Year": "1951/52, Band 6",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6140&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=17bf1234107ec8938dec3459210bd21b",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2707"
+                    },
+                    {
+                        "Volume": "53.1952/53, Band 1",
+                        "Year": "1952/53, Band 1",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6141&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=7e817fa30174b9e9e879a7620438587e",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2714"
+                    },
+                    {
+                        "Volume": "53.1952/53, Band 2",
+                        "Year": "1952/53, Band 2",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6142&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=acca9a34a505f95ba1d9f14813c55e3c",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2727"
+                    },
+                    {
+                        "Volume": "53.1952/53, Band 3",
+                        "Year": "1952/53, Band 3",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6143&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=6752952aba377da370594a7485fb8534",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2733"
+                    },
+                    {
+                        "Volume": "53.1952/53, Band 4",
+                        "Year": "1952/53, Band 4",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6144&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=c6499326b6b1161dd10f303f803fa150",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2747"
+                    },
+                    {
+                        "Volume": "53.1952/53, Band 5",
+                        "Year": "1952/53, Band 5",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6145&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=fa7a58b7583453e0222bc6b2285c2c97",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2759"
+                    },
+                    {
+                        "Volume": "54.1953/54, Band 1",
+                        "Year": "1953/54, Band 1",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6146&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=ef681fec6eef6655f19e0abde1f1fd77",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2762"
+                    },
+                    {
+                        "Volume": "54.1953/54, Band 2",
+                        "Year": "1953/54, Band 2",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6147&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=a56dae3313df82a47d881321e3cd1408",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2777"
+                    },
+                    {
+                        "Volume": "54.1953/54, Band 3",
+                        "Year": "1953/54, Band 3",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6148&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=163673759b12bcea102cb625b061b399",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2783"
+                    },
+                    {
+                        "Volume": "54.1953/54, Band 4",
+                        "Year": "1953/54, Band 4",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6150&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=c225e9b5511d7551800cb7b001b399c2",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2796"
+                    },
+                    {
+                        "Volume": "54.1953/54, Band 5",
+                        "Year": "1953/54, Band 5",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6151&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=9b1b08761e655ad2f521f6c0aa590bb8",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2808"
+                    },
+                    {
+                        "Volume": "55.1954/55, Band 1",
+                        "Year": "1954/55, Band 1",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6158&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=11b9b53c61a16b4674ebe50a7aa9c786",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2858"
+                    },
+                    {
+                        "Volume": "55.1954/55, Band 2",
+                        "Year": "1954/55, Band 2",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6159&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=d0fe6e02fcf10ae7fb98a988d6aaabc6",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2860"
+                    },
+                    {
+                        "Volume": "55.1954/55, Band 3",
+                        "Year": "1954/55, Band 3",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6160&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=046d7f732268145204f48f6c2df14f1d",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2874"
+                    },
+                    {
+                        "Volume": "55.1954/55, Band 4",
+                        "Year": "1954/55, Band 4",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6161&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=8088f72c131e13061427d4645410384c",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2889"
+                    },
+                    {
+                        "Volume": "55.1954/55, Band 5",
+                        "Year": "1954/55, Band 5",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6162&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=2a5c049cd1ebbb86de863211928754d6",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2897"
+                    },
+                    {
+                        "Volume": "56.1955/56, Band 1",
+                        "Year": "1955/56, Band 1",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6163&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=110de3c402c43e11c3f84d5e24879cb0",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2906"
+                    },
+                    {
+                        "Volume": "56.1955/56, Band 2",
+                        "Year": "1955/56, Band 2",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6164&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=6ca3f71138bf7de482decd292e192c7b",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2919"
+                    },
+                    {
+                        "Volume": "56.1955/56, Band 3",
+                        "Year": "1955/56, Band 3",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6165&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=3d142ba4f140130a42e8d79cffb4b64c",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2927"
+                    },
+                    {
+                        "Volume": "56.1955/56, Band 4",
+                        "Year": "1955/56, Band 4",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6166&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=c18cf22a075805bf92a42694ee9c2242",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2936"
+                    },
+                    {
+                        "Volume": "56.1955/56, Band 5",
+                        "Year": "1955/56, Band 5",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6167&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=1b647c510968fa79e277937f744b08d0",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2947"
+                    },
+                    {
+                        "Volume": "56.1955/56, Band 6",
+                        "Year": "1955/56, Band 6",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6168&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=02ea500787126c61f16a36697e802ee9",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2955"
+                    },
+                    {
+                        "Volume": "57.1956/57, Band 1",
+                        "Year": "1956/57, Band 1",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6171&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=c8b97a8caf4ed9cc945d2c658d967e7e",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2962"
+                    },
+                    {
+                        "Volume": "57.1956/57, Band 2",
+                        "Year": "1956/57, Band 2",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6172&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=91c1b73605661b8a23adca074da5c574",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2979"
+                    },
+                    {
+                        "Volume": "57.1956/57, Band 3",
+                        "Year": "1956/57, Band 3",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6173&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=13d89e32117e15a3acd8ef0692fb4ef9",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2987"
+                    },
+                    {
+                        "Volume": "57.1956/57, Band 4",
+                        "Year": "1956/57, Band 4",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6174&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=f2b45e662d8320c546184b6d15a739bf",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-2999"
+                    },
+                    {
+                        "Volume": "57.1956/57, Band 5",
+                        "Year": "1956/57, Band 5",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6175&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=32d666bd9fa3633d03c7d972b1cbaf1b",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3000"
+                    },
+                    {
+                        "Volume": "57.1956/57, Band 6",
+                        "Year": "1956/57, Band 6",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6176&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=93781dae84a0dbe13b4da5bc2d42a325",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3011"
+                    },
+                    {
+                        "Volume": "58.1957/58, Band 1",
+                        "Year": "1957/58, Band 1",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6177&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=34bc9b88195f6962e5c0404af56b589d",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3024"
+                    },
+                    {
+                        "Volume": "58.1957/58, Band 2",
+                        "Year": "1957/58, Band 2",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6178&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=e8a7b03ccf23f644e2362471bb104a2b",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3036"
+                    },
+                    {
+                        "Volume": "58.1957/58, Band 3",
+                        "Year": "1957/58, Band 3",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6180&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=43fedf846a0edaf05e0b1b0dd0d5ac87",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3045"
+                    },
+                    {
+                        "Volume": "58.1957/58, Band 4",
+                        "Year": "1957/58, Band 4",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6181&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=8be30550254b8182f92358db99084af4",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3058"
+                    },
+                    {
+                        "Volume": "58.1957/58, Band 5",
+                        "Year": "1957/58, Band 5",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6182&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=661ddcd6806e72ecb351c881bdefa4ec",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3068"
+                    },
+                    {
+                        "Volume": "58.1957/58, Band 6",
+                        "Year": "1957/58, Band 6",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6183&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=0307229534810e16e4bcb8b01921e84a",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3079"
+                    },
+                    {
+                        "Volume": "59.1958/59, Band 1",
+                        "Year": "1958/59, Band 1",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6186&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=a3f9a019c9e1f40c067b53a93e872444",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3089"
+                    },
+                    {
+                        "Volume": "59.1958/59, Band 2",
+                        "Year": "1958/59, Band 2",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6189&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=4b61a980b8514795641ece44dba4b414",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3099"
+                    },
+                    {
+                        "Volume": "59.1958/59, Band 3",
+                        "Year": "1958/59, Band 3",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6190&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=95e64ba7900772a8ce9a4bdaa205327e",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3101"
+                    },
+                    {
+                        "Volume": "59.1958/59, Band 4",
+                        "Year": "1958/59, Band 4",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6191&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=179a3ee08f57e42ba8c95200b4df6c7d",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3116"
+                    },
+                    {
+                        "Volume": "59.1958/59, Band 5",
+                        "Year": "1958/59, Band 5",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6192&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=7a47ce06206a054eb8af5201b18a96b6",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3121"
+                    },
+                    {
+                        "Volume": "59.1958/59, Band 6",
+                        "Year": "1958/59, Band 6",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6193&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=5de703af86fcc346bd08ca54f29c776f",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3139"
+                    },
+                    {
+                        "Volume": "60.1959/60, Band 1",
+                        "Year": "1959/60, Band 1",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6202&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=ec6f2c7e9523a0cdcb2b5b2f4c7b4449",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3145"
+                    },
+                    {
+                        "Volume": "60.1959/60, Band 2",
+                        "Year": "1959/60, Band 2",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6203&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=f24cd5f6d39d64ade42d43132cee9928",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3156"
+                    },
+                    {
+                        "Volume": "60.1959/60, Band 3",
+                        "Year": "1959/60, Band 3",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6204&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=025ad1159b2ff0696f77198a6bdd47af",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3166"
+                    },
+                    {
+                        "Volume": "60.1959/60, Band 4",
+                        "Year": "1959/60, Band 4",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6205&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=23908c58d945a8672f7fb00fced622bd",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3175"
+                    },
+                    {
+                        "Volume": "60.1959/60, Band 5",
+                        "Year": "1959/60, Band 5",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6206&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=5017e6a93ae2992c5f47b345bfe5c997",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3185"
+                    },
+                    {
+                        "Volume": "60.1959/60, Band 6",
+                        "Year": "1959/60, Band 6",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6207&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=303d8728cb6ef01a19b524b6f6beaa28",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3190"
+                    },
+                    {
+                        "Volume": "61.1960/61, Band 1",
+                        "Year": "1960/61, Band 1",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6216&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=616fec9ae15ae0f870cfc4051f3f5d7d",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3317"
+                    },
+                    {
+                        "Volume": "61.1960/61, Band 2",
+                        "Year": "1960/61, Band 2",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6217&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=885b917693a131aaee6865e8a631dc77",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3325"
+                    },
+                    {
+                        "Volume": "61.1960/61, Band 3",
+                        "Year": "1960/61, Band 3",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6221&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=62fddfc7f958274e4038d558fc329bc3",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3353"
+                    },
+                    {
+                        "Volume": "61.1960/61, Band 4",
+                        "Year": "1960/61, Band 4",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6222&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=e5ea000ef5d44aece7fabe48a7d69c0d",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3360"
+                    },
+                    {
+                        "Volume": "61.1960/61, Band 5",
+                        "Year": "1960/61, Band 5",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6223&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=2fb5f66c3b8281ff98e454414889034d",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3378"
+                    },
+                    {
+                        "Volume": "61.1960/61, Band 6",
+                        "Year": "1960/61, Band 6",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6224&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=fccbbc5444f67712003593e3882fc9a3",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3386"
+                    },
+                    {
+                        "Volume": "62.1961/62, Band 1",
+                        "Year": "1961/62, Band 1",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6226&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=9572ba6356ad4ca2872bdacf17a723ca",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3404"
+                    },
+                    {
+                        "Volume": "62.1961/62, Band 2",
+                        "Year": "1961/62, Band 2",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6228&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=76f36239944da30ed10338d32ec8cdd2",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3422"
+                    },
+                    {
+                        "Volume": "62.1961/62, Band 3",
+                        "Year": "1961/62, Band 3",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6229&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=0fd24824a6ab9699a49ffb59dcdb2caf",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3437"
+                    },
+                    {
+                        "Volume": "62.1961/62, Band 4",
+                        "Year": "1961/62, Band 4",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6230&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=9eb3d3f1538dc8e66eccd03973b35d7a",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3446"
+                    },
+                    {
+                        "Volume": "62.1961/62, Band 5",
+                        "Year": "1961/62, Band 5",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6233&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=2de78cc588659635e10bfbd1e4692efe",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3452"
+                    },
+                    {
+                        "Volume": "62.1961/62, Band 6",
+                        "Year": "1961/62, Band 6",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6235&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=2d855d50ae67f0465da9cd5357929178",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3474"
+                    },
+                    {
+                        "Volume": "62.1961/62, Band 7",
+                        "Year": "1961/62, Band 7",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6234&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=4b94df3a280092927f9900e3cc71463e",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3468"
+                    },
+                    {
+                        "Volume": "63.1962/63, Band 1",
+                        "Year": "1962/63, Band 1",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6257&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=a015c5201e458131296befc2164aaffa",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3493"
+                    },
+                    {
+                        "Volume": "63.1962/63, Band 2",
+                        "Year": "1962/63, Band 2",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6258&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=e97557319ba8a8a1c53eb266b24c5aba",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3505"
                     }
                 ]
             }

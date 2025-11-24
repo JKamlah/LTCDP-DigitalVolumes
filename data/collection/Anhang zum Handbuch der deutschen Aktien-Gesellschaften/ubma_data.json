@@ -11,7 +11,7 @@
                 "OAI-Identifier": "Zeitschrift",
                 "URN": "1735531847",
                 "PURL": "urn:nbn:de:bsz:180-dighop-326",
-                "METS": "http://digi.bib.uni-mannheim.de/urn/urn:nbn:de:bsz:180-dighop-326"
+                "METS": "https://digi.bib.uni-mannheim.de/urn/urn:nbn:de:bsz:180-dighop-326"
             },
             "List of Volumes": {
                 "Overview": [
@@ -25,13 +25,13 @@
                         "Volume": "02.1898/1899, Band 1",
                         "Year": "1898/1899, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4881&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=9463a234ba10359750466a8a0bcd0022",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1735531847_189900021"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-1021"
                     },
                     {
                         "Volume": "02.1898/1899, Band 2",
                         "Year": "1898/1899, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4879&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=9d80c0b09d2a252a4561ca064563adbf",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1735531847_189900022"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-1000"
                     },
                     {
                         "Volume": "03.1899/1900, Band 1",
@@ -115,37 +115,37 @@
                         "Volume": "09.1905/1906, Band 2",
                         "Year": "1905/1906, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4871&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=43a1231bb44eb220830e26998162b75c",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/Band"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-968"
                     },
                     {
                         "Volume": "10.1906/1907, Band 1",
                         "Year": "1906/1907, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4869&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=61631db17c995ea6ef846865846944f2",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1735531847_190700101"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-945"
                     },
                     {
                         "Volume": "10.1906/1907, Band 2",
                         "Year": "1906/1907, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4709&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=10d63eb78b5dffc5357f8cff08a845f4",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1735531847_190700102"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-752"
                     },
                     {
                         "Volume": "11.1907/1908, Band 1",
                         "Year": "1907/1908, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4858&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=a2e8150b1d548764000806da054aeff8",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1735531847_190800111"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-900"
                     },
                     {
                         "Volume": "11.1907/1908, Band 2",
                         "Year": "1907/1908, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4707&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=1830cafd2fe9cf31278e1b5cc3d92ebe",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1735531847_190800112"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-732"
                     },
                     {
                         "Volume": "12.1908/1909, Band 1",
                         "Year": "1908/1909, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4856&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=999954acf127e9fdbab2f03e9316a79b",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/Band"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-880"
                     },
                     {
                         "Volume": "12.1908/1909, Band 2",
@@ -157,19 +157,19 @@
                         "Volume": "13.1909/1910, Band 1",
                         "Year": "1909/1910, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4837&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=ac71b451082a6f8ec57126326c53cdab",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/Band"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-844"
                     },
                     {
                         "Volume": "13.1909/1910, Band 2",
                         "Year": "1909/1910, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4706&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=0f86bbba87980cd494d722001efdacbb",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/Band"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-723"
                     },
                     {
                         "Volume": "14.1910/1911, Band 1",
                         "Year": "1910/1911, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4704&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=96f7c6a8a61f425121ac79de90e81583",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/Band"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-708"
                     },
                     {
                         "Volume": "14.1910/1911, Band 2",
@@ -181,85 +181,85 @@
                         "Volume": "15.1911/1912, Band 1",
                         "Year": "1911/1912, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4696&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=31ed84cd37b18371d50b4df28fb813ad",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/Band"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-670"
                     },
                     {
                         "Volume": "15.1911/1912, Band 2",
                         "Year": "1911/1912, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4694&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=df9133e84e0d89857da9c89380fc28cd",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/Band"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-662"
                     },
                     {
                         "Volume": "16.1912/1913, Band 1",
                         "Year": "1912/1913, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4692&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=5c25161d5f2135592c49b728857f301e",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/Band"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-644"
                     },
                     {
                         "Volume": "16.1912/1913, Band 2",
                         "Year": "1912/1913, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4686&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=3d771bb4aba6ffee40de9d251a13b0e4",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/Band"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-593"
                     },
                     {
                         "Volume": "17.1913/1914, Band 1",
                         "Year": "1913/1914, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4678&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=d84a2914b64e9b953a3507b86a96e96e",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/Band"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-564"
                     },
                     {
                         "Volume": "17.1913/1914, Band 2",
                         "Year": "1913/1914, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4677&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=4b64da844743442296825830cdfbcb6e",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/Band"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-555"
                     },
                     {
                         "Volume": "18.1914/1915, Band 1",
                         "Year": "1914/1915, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4669&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=1718f199b01f4b85f4231251132e1867",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/Band"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-514"
                     },
                     {
                         "Volume": "18.1914/1915, Band 2",
                         "Year": "1914/1915, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4667&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=72b766b173b2bad573d10150b228e9f2",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/Band"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-493"
                     },
                     {
                         "Volume": "19.1915/1916, Band 1",
                         "Year": "1915/1916, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4666&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=0c454d800a6faa49e3e615703091b36f",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1735531847_191600191"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-488"
                     },
                     {
                         "Volume": "19.1915/1916, Band 2",
                         "Year": "1915/1916, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4664&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=57a4e59eed6b2468cf3fefe85d3ee953",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1735531847_191600192"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-467"
                     },
                     {
                         "Volume": "20.1916/1917, Band 1",
                         "Year": "1916/1917, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4662&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=12108391adfd212f20d2408fb8f50cd8",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1735531847_191700201"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-444"
                     },
                     {
                         "Volume": "20.1916/1917, Band 2",
                         "Year": "1916/1917, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4652&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=47cca9d04e76fa108ccba981388fa81a",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1735531847_191700202"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-423"
                     },
                     {
                         "Volume": "21.1917/1918, Band 1",
                         "Year": "1917/1918, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4743&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=6e799611e278f675bead88ab2fe19e3b",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1735531847_191800211"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-776"
                     },
                     {
                         "Volume": "21.1917/1918, Band 2",
                         "Year": "1917/1918, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4649&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=eb58ba6abbe018f99afd16907b467206",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1735531847_191800212"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-408"
                     },
                     {
                         "Volume": "22.1918/1919, Band 1",
@@ -277,37 +277,37 @@
                         "Volume": "23.1919/1920, Band 1",
                         "Year": "1919/1920, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4583&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=00192fce23ccf3959d73d060bdd5e67f",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1735531847_192000231"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-314"
                     },
                     {
                         "Volume": "23.1919/1920, Band 2",
                         "Year": "1919/1920, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4592&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=8cfd001e40e480d129a7fe1b4db83c3f",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1735531847_192000232"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-358"
                     },
                     {
                         "Volume": "24.1920/1921, Band 1",
                         "Year": "1920/1921, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4958&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=9ee2bddc3daef447967803c0cc3e9b12",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1735531847_192100241"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-1505"
                     },
                     {
                         "Volume": "24.1920/1921, Band 2",
                         "Year": "1920/1921, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4970&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=36d521900655b7d58f1b6c80c8f464ad",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1735531847_192100242"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-1535"
                     },
                     {
                         "Volume": "25.1921/1922, Band 1",
                         "Year": "1921/1922, Band 1",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4952&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=08f912c4db0a8169b002e6e810fede78",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1735531847_192200251"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-1446"
                     },
                     {
                         "Volume": "25.1921/1922, Band 2",
                         "Year": "1921/1922, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4953&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=1585ccff9b05f467f0fbff016ad1a4f1",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1735531847_192200252"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-1455"
                     },
                     {
                         "Volume": "26.1922/1923, Band 1",
@@ -319,7 +319,7 @@
                         "Volume": "26.1922/1923, Band 2",
                         "Year": "1922/1923, Band 2",
                         "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=4795&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=5058a5c59ec20a2cbe3f8f015d91c379",
-                        "METS": "https://digi.bib.uni-mannheim.de/mets/1735531847_192300262"
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-835"
                     }
                 ]
             }
