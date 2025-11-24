@@ -1,0 +1,106 @@
+{
+    "Provider": {
+        "UB Mannheim": {
+            "Bibliographic Info": {
+                "Title": "Die Umschau auf dem Gebiete des Zoll- und Steuerwesens",
+                "Collection(s)": "Zoll- und Steuerwesen",
+                "Language": "Deutsch",
+                "Place of Publication": "Berlin",
+                "Structure Type": "Zeitschrift",
+                "DFG-Viewer": "1938309448",
+                "OAI-Identifier": "1938309448",
+                "URN": "urn:nbn:de:bsz:180-digzost-10",
+                "PURL": "https://digi.bib.uni-mannheim.de/urn/urn:nbn:de:bsz:180-digzost-10",
+                "METS": "METS"
+            },
+            "List of Volumes": {
+                "Overview": [
+                    {
+                        "Volume": "01.1882",
+                        "Year": "1882",
+                        "URL": "https://digi.bib.uni-mannheim.de/zoll-steuerwesen/uebersicht/zost-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6239&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=01e126ce04506f53de097e86595e1302",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-digzost-27"
+                    },
+                    {
+                        "Volume": "03.1884",
+                        "Year": "1884",
+                        "URL": "https://digi.bib.uni-mannheim.de/zoll-steuerwesen/uebersicht/zost-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6241&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=60adf99f69b0f0cdc763c546c04ba67b",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-digzost-43"
+                    },
+                    {
+                        "Volume": "04.1885",
+                        "Year": "1885",
+                        "URL": "https://digi.bib.uni-mannheim.de/zoll-steuerwesen/uebersicht/zost-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6242&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=4339af5f575bec0dc8c39949f46e517f",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-digzost-36"
+                    },
+                    {
+                        "Volume": "05.1886",
+                        "Year": "1886",
+                        "URL": "https://digi.bib.uni-mannheim.de/zoll-steuerwesen/uebersicht/zost-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6243&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=22ff4839e450d9feb2b0f0a29d423a91",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-digzost-54"
+                    },
+                    {
+                        "Volume": "06.1887",
+                        "Year": "1887",
+                        "URL": "https://digi.bib.uni-mannheim.de/zoll-steuerwesen/uebersicht/zost-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6244&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=4da3198cfc1ed277422714b0720ec3f0",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-digzost-64"
+                    },
+                    {
+                        "Volume": "07.1888",
+                        "Year": "1888",
+                        "URL": "https://digi.bib.uni-mannheim.de/zoll-steuerwesen/uebersicht/zost-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6245&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=59121fc06c56c87e06eee0c01663df11",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-digzost-74"
+                    },
+                    {
+                        "Volume": "08.1989",
+                        "Year": "1989",
+                        "URL": "https://digi.bib.uni-mannheim.de/zoll-steuerwesen/uebersicht/zost-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6246&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=a89a384c81d7996f5990cb3e278818ed",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-digzost-83"
+                    },
+                    {
+                        "Volume": "10.1891",
+                        "Year": "1891",
+                        "URL": "https://digi.bib.uni-mannheim.de/zoll-steuerwesen/uebersicht/zost-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6247&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=e2b17fabc6b60de6ac7f7e151f03f2e2",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-digzost-97"
+                    },
+                    {
+                        "Volume": "11.1892",
+                        "Year": "1892",
+                        "URL": "https://digi.bib.uni-mannheim.de/zoll-steuerwesen/uebersicht/zost-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6251&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=f7a0b85066c9ec7e8ea8585873372d1b",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-digzost-113"
+                    },
+                    {
+                        "Volume": "12.1893",
+                        "Year": "1893",
+                        "URL": "https://digi.bib.uni-mannheim.de/zoll-steuerwesen/uebersicht/zost-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6250&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=9cf6077a7cff4da49adf6f6e98e084e6",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-digzost-103"
+                    },
+                    {
+                        "Volume": "13.1894",
+                        "Year": "1894",
+                        "URL": "https://digi.bib.uni-mannheim.de/zoll-steuerwesen/uebersicht/zost-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6252&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=2a15557ad3308789bfd13002374d1178",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-digzost-123"
+                    },
+                    {
+                        "Volume": "15.1896",
+                        "Year": "1896",
+                        "URL": "https://digi.bib.uni-mannheim.de/zoll-steuerwesen/uebersicht/zost-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6253&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=6692dc8eaa0c520818acd906f1551079",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-digzost-133"
+                    },
+                    {
+                        "Volume": "16.1897",
+                        "Year": "1897",
+                        "URL": "https://digi.bib.uni-mannheim.de/zoll-steuerwesen/uebersicht/zost-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6255&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=f90e6fd67963533fcf4c7a14a348d39d",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-digzost-145"
+                    },
+                    {
+                        "Volume": "17.1898",
+                        "Year": "1898",
+                        "URL": "https://digi.bib.uni-mannheim.de/zoll-steuerwesen/uebersicht/zost-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6256&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=97bc759b31ade72dcd4c47ab152b58b8",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-digzost-153"
+                    }
+                ]
+            }
+        }
+    }
+}
