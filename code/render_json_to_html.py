@@ -118,7 +118,7 @@ def render_list_of_volumes(provider_data, parent_id):
                 volume_number = volume.get("Volume", "NA")
                 year = volume.get("Year", "NA")
                 url = volume.get("URL", None)
-                html_content += f'<li><strong>{volume_number} ({year}):</strong>'
+                html_content += f'<li><strong>{volume_number}{" (" + year + ")" if year else ""}:</strong>'
                 if url:
                     html_content += f' <a href="{url}" target="_blank">View Source</a>'
                 if "METS" in volume.keys():
