@@ -1,0 +1,46 @@
+{
+    "Provider": {
+        "UB Mannheim": {
+            "Bibliographic Info": {
+                "DFG-Viewer": "1939384109",
+                "Title": "Die Maschinenindustrie im Deutschen Reich",
+                "Collection(s)": "Hoppenstedt",
+                "Language": "Deutsch",
+                "Place of Publication": "Berlin",
+                "Structure Type": "Zeitschrift",
+                "OAI-Identifier": "1939384109",
+                "URN": "urn:nbn:de:bsz:180-dighop-3334",
+                "PURL": "https://digi.bib.uni-mannheim.de/urn/urn:nbn:de:bsz:180-dighop-3334",
+                "METS": "METS"
+            },
+            "List of Volumes": {
+                "Overview": [
+                    {
+                        "Volume": "1937",
+                        "Year": "",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6254&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=96bfb90873ec248978585cffa591b614",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3482"
+                    },
+                    {
+                        "Volume": "1938",
+                        "Year": "",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6220&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=070488467e1f6c7fa9b47cd5cf06851e",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3346"
+                    },
+                    {
+                        "Volume": "1939/40",
+                        "Year": "",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6225&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=8fe9e670685acd2e3cbde2910557d6d8",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3392"
+                    },
+                    {
+                        "Volume": "1943",
+                        "Year": "",
+                        "URL": "https://digi.bib.uni-mannheim.de/hoppenstedt/uebersicht/hs-seitenansicht-uebersicht/?tx_dlf%5Bid%5D=6227&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=0&cHash=16755ae50df37aca2065e13763fa48d0",
+                        "METS": "https://digi.bib.uni-mannheim.de/mets/urn:nbn:de:bsz:180-dighop-3413"
+                    }
+                ]
+            }
+        }
+    }
+}
